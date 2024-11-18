@@ -1,0 +1,37 @@
+Books.csv
+Users.csv
+Ratings.csv 
+
+books.pkl
+popular.pkl
+pt.pkl
+similarity_scores.pkl
+
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.o
+*.so
+
+# Ignore IDE project files
+.vscode/
+.idea/
